@@ -1,0 +1,20 @@
+/* CustomerAccountDetail.module.css */
+.cardContainer {
+    margin-top: 20px;
+  }
+  
+  .formLabel {
+    color: #333;
+  }
+  
+  .formInput {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .formButton {
+    margin-top: 10px;
+  }
+  

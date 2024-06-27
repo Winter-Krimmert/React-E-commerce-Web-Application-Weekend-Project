@@ -1,0 +1,34 @@
+/* CustomerDetail.module.css */
+
+.CustomerDetail-container {
+    margin-top: 20px;
+  }
+  
+  .CustomerDetail-form {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .CustomerDetail-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .CustomerDetail-floating-label {
+    margin-bottom: 15px;
+  }
+  
+  .CustomerDetail-feedback {
+    display: block;
+    margin-top: 2px;
+    font-size: 80%;
+    color: #dc3545;
+  }
+  
+  .CustomerDetail-button {
+    margin-top: 15px;
+  }
+  

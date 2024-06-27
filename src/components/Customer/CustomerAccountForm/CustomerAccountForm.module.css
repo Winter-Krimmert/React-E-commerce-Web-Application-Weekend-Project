@@ -1,0 +1,63 @@
+/* CustomerAccountForm.module.css
+
+.customerAccountForm {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+}
+
+.customerAccountForm h3 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: #343a40;
+}
+
+.customerAccountForm label {
+  font-weight: 500;
+}
+
+.customerAccountForm .form-group {
+  margin-bottom: 20px;
+}
+
+.customerAccountForm .form-control {
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+.customerAccountForm .btn-primary {
+  font-size: 1rem;
+  border-radius: 4px;
+  width: 25%;
+}
+
+.customerAccountForm .btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.customerAccountForm .submitButton {
+  margin-top: 10px;
+}
+
+.customerAccountForm .form-control:focus {
+  border-color: #80bdff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+@media (max-width: 768px) {
+  .customerAccountForm {
+    padding: 15px;
+  }
+  
+  .customerAccountForm h3 {
+    font-size: 1.3rem;
+  }
+  
+  .customerAccountForm .btn-primary {
+    width: 100%;
+  }
+} */

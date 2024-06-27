@@ -1,0 +1,28 @@
+/* ProductDetails.module.css */
+.container {
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 20px;
+    width: 75%;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+  }
+  
+  .heading {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .productInfo {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+  }
+  
+  .buttonGroup {
+    margin-top: 20px;
+  }
+  
+  .button {
+    margin-right: 10px;
+  }
+  

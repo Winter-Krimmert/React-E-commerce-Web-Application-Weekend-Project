@@ -1,0 +1,25 @@
+/* NavBar.module.css */
+.navbar {
+  background-color: #343a40; /* Dark background */
+}
+
+.navbar-brand {
+  color: #ffffff !important; /* White text for brand */
+}
+
+.nav-link {
+  color: #ffffff !important; /* White text for links */
+}
+
+.nav-link:hover {
+  color: #cccccc !important; /* Light grey text on hover */
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 15px; /* Adjust spacing between nav items */
+}
